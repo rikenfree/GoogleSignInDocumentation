@@ -25,7 +25,7 @@ This guide walks you through integrating **Google Sign-In** into your Unity Andr
 1. Create an **empty GameObject** and name it `GoogleAuthentication`.
 2. Create a script also named `GoogleAuthentication` and attach it to the GameObject.
 3. Download and use the script from the link below:
-:link: [GoogleAuthentication.cs Script](https://pastebin.com/raw/3MpEmQn6)
+:link: [GoogleAuthentication.cs Script](https://pastebin.com/raw/RNcQuBwW)
 *(Replace with your actual Pastebin/Gist/Repo link if different)*
 ---
 ## :inbox_tray: Step 4: Download SDKs
